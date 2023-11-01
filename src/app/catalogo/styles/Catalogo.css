@@ -1,0 +1,13 @@
+.container{
+    padding: 10px;
+    min-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+/* .containerProducts{
+    min-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    gap: 10px;
+} */

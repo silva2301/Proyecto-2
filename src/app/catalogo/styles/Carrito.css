@@ -1,0 +1,31 @@
+.cartContainer{
+    display: flex;
+    position: relative;
+    top: 0;
+    left: 95%;
+    /* right: 20px; */
+    width: 50px;
+    height: 50px;
+}
+.cartButton{
+    color: transparent;
+    background-image: url('../img/carrito.png');
+    height: 50px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.cantidadArticulosContainer{
+    position: relative;
+    top: -10px;
+    left: -15px;
+    background-color: #4f46e5;
+    width: max-content;
+    height: max-content;
+    border-radius: 50px;
+}
+
+.cantidad{
+    padding: 2px 6px;
+    color:white
+}
